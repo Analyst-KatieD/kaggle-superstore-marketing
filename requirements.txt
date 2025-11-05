@@ -1,0 +1,10 @@
+```txt
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+missingno
+scipy
+sklearn
