@@ -63,7 +63,7 @@ Model insights helped identify actionable segments for targeted marketing.
 
 ## View the Notebook
 
-You can view the full analysis (here)[google.com]
+You can view the full analysis [here](https://github.com/Analyst-KatieD/kaggle-superstore-marketing/blob/main/Kaggle_Superstore_Marketing_Campaign.ipynb)
 
 ---
 
@@ -71,4 +71,4 @@ You can view the full analysis (here)[google.com]
 
 Katie DelValle
 Product Marketing Analyst | Data Storyteller
-(analyst-katied.github.io)[analyst-katied.github.io]
+[analyst-katied.github.io](analyst-katied.github.io)
